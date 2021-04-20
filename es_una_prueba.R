@@ -2,6 +2,4 @@
 
 dt <- mtcars
 
-#Más código
-###
-
+#Eliminamos comentarios
